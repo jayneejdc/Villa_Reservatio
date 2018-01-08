@@ -1,0 +1,17 @@
+body{
+	margin-top: 100px;
+}
+.navig {
+	background-color: rgb(57, 57, 57);
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding: 5px;
+}
+#nav{
+	padding-right: 10px;
+	color: white;
+}
+#header{
+	background-color: rgb(57, 57, 57);
+}
