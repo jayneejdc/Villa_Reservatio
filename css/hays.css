@@ -1,0 +1,10 @@
+.form{
+	text-align: center;
+	border-style: solid;
+	margin-top: 10%;
+	margin-left: 25%;
+	width: 30%;
+	background-color: rgb(40, 40, 40);
+	padding: 10%;
+	color: rgb(255, 215, 32);
+}
